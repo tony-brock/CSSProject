@@ -3,19 +3,29 @@ body {
     
 }
 
-.nav {
+div.nav {
+    
 }
 
 div.person_info>img {
 }
 
-.username {
+span.username {
+    font-weight:bold;
 }
 
 h1, h3 {
 }
 
+div.title {
+    margin-top:20px;
+    margin-bottom:20px;
+    font-weight:bold;
+}
+
 img.person_image {
+    height:120px; 
+    width:100px;
 }
 
 form {
@@ -31,6 +41,9 @@ g.desks {
 }
 
 img.seat_pic {
+}
+
+div.day {
 }
 
 div.person_info {

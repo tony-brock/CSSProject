@@ -23,6 +23,15 @@ div.title {
     font-weight:bold;
 }
 
+label {
+    clear:left;
+    float:left;
+}
+
+input {
+    clear:left;
+}
+
 img.person_image {
     height:120px; 
     width:100px;

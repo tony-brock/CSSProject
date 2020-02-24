@@ -26,10 +26,12 @@ div.title {
 label {
     clear:left;
     float:left;
+    margin-bottom:50px;
 }
 
 input {
-    clear:left;
+    clear:right;
+    float:right;
 }
 
 img.person_image {
@@ -37,7 +39,9 @@ img.person_image {
     width:100px;
 }
 
-form {
+form image {
+    float:right;
+    clear:right;
 }
 
 table {

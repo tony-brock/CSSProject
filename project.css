@@ -3,8 +3,18 @@ body {
     
 }
 
-div.nav {
-    
+a {
+    margin:20px;
+}
+
+div.sound { /*need a box to click to hear voices*/
+}
+
+div.partners {
+    font-weight:bold
+}
+
+div.nav { 
 }
 
 div.person_info>img {
@@ -55,8 +65,9 @@ g.desks {
 
 img.seat_pic {
 }
-
+/*want to be able to hide each day that has passed unless you press a button, that would look really cool. */
 div.day {
+    font-weight:bold
 }
 
 div.person_info {

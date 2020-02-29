@@ -129,5 +129,7 @@ div.reading-box {
 
 div.sound {
     background-image:url(conch.jpeg);
+    height: 15px;
+    width: 30px;
 }
 

@@ -5,6 +5,8 @@ body {
 
 a {
     margin:20px;
+    font-family: American typewriter;
+    font-size: 25px;
 }
 
 div.sound { /*need a box to click to hear voices*/
@@ -22,6 +24,8 @@ div.person_info>img {
 
 span.username {
     font-weight:bold;
+    font-family: Bradley Hand;
+    font-size: 25px
 }
 
 h1, h3 {
@@ -53,11 +57,19 @@ img.person_image {
 }
 
 form image {
-    float:right;
+    float:left;
     clear:right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+form {
+    font-family:american typewriter;
 }
 
 table {
+    text-align: center;
+    font-family: american typewriter;
 }
 
 svg {
@@ -115,4 +127,7 @@ div.day {
 div.reading-box {
 }
 
+div.sound {
+    background-image:url(conch.jpeg)
+}
 

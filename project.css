@@ -1,5 +1,5 @@
 body {
-    background-color: lightgoldenrodyellow;
+    background-image:url(beach.jpg);
     
 }
 
@@ -25,6 +25,9 @@ span.username {
 }
 
 h1, h3 {
+    font-family: Bradley hand;
+    font-size: 60px;
+    color: #5c4a00;;
 }
 
 div.title {
@@ -67,22 +70,43 @@ img.seat_pic {
 }
 /*want to be able to hide each day that has passed unless you press a button, that would look really cool. */
 div.day {
-    font-weight:bold
+    font-weight:bold;
+    font-size: 20px;
 }
 
 div.person_info {
 }
 
 div.day-box Completed {
+    background-color: #f5df87;
+    padding: 5px;
+    margin: 10px;
+    border: 5px solid #5c4a00;
+    font-family: American typewriter;
+    
 }
 
 div.day-box Current {
+    padding: 5px;
+    margin: 10px;
+    border: 5px solid #5c4a00;
+    background-color: #b5ffa8;
+    font-family: American typewriter;
 }
 
 div.day-box Prep {
+    padding: 5px;
+    margin: 10px;
+    border: 5px solid #5c4a00;
+    background-color: #8DCEEE;
+    font-family: American typewriter;
 }
 
 div.header {
+    padding: 5px;
+    margin: 10px;
+    border: 5px solid #5c4a00;
+    background-color: #49ACCC;
 }
 
 div.day {

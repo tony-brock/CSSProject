@@ -9,7 +9,9 @@ a {
     font-size: 25px;
 }
 
-div.sound { /*need a box to click to hear voices*/
+div.grade {
+    font-family: American typewriter;
+    font-size: 18px;
 }
 
 div.partners {
@@ -56,7 +58,7 @@ img.person_image {
     width:100px;
 }
 
-form image {
+form>image {
     float:left;
     clear:right;
     margin-left: 10px;
@@ -78,9 +80,8 @@ svg {
 g.desks {
 }
 
-img.seat_pic {
-}
-/*want to be able to hide each day that has passed unless you press a button, that would look really cool. */
+
+
 div.day {
     font-weight:bold;
     font-size: 20px;

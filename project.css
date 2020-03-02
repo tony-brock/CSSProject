@@ -82,8 +82,12 @@ table {
     border: 3px solid #5c4a00;
 }
 
-table:hover {
+td:hover {
    background-color: #d4ffa6; 
+}
+
+th:hover {
+   background-color: #8DCEEE; 
 }
 
 th {

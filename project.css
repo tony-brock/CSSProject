@@ -175,5 +175,5 @@ g#desks rect {
 }
 
 svg>rect {
- fill: #5c4a00;   
+ background: linear-gradient(to bottom, #f5df87 0%, #5c4a00 100%);   
 }

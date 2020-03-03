@@ -180,8 +180,8 @@ svg>rect {
  fill: #5c4a00;   
 }
 
-div:empty {
- margin:0px;
-    paadding:0px;
-    border:0px;
+div.lab-box:empty {
+ border: 0px;
+    padding: 0px;
+    margin: 0px;
 }

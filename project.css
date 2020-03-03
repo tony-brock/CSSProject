@@ -148,8 +148,6 @@ div.reading-box {
 div.lab-box {
     padding:5px;
     margin:20px;
-    border: 2px solid #5c4a00;
-    border-radius: 10px 10px 10px 10px;
 }
 
 div.sound {
@@ -178,8 +176,4 @@ g#desks rect {
 
 svg>rect {
  fill: #5c4a00;   
-}
-
-div.lab-box:empty {
- visibility:hidden;
 }

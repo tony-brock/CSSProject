@@ -17,9 +17,6 @@ div.partners {
     font-weight:bold
 }
 
-div.nav { 
-}
-
 div.person_info>img {
     height: 100px;
     width: 100px;
@@ -93,13 +90,9 @@ th {
     text-decoration: underline;
 }
 
-svg {
-}
-
 g.desks rect {
     fill: #f5df87;
 }
-
 
 
 div.day {
@@ -158,7 +151,7 @@ div.lab-box {
 }
 
 div.sound {
-    background-image:url(conch.jpeg);
+    background-image:url(cocount.jpg);
     height: 15px;
     width: 30px;
 }

@@ -178,3 +178,7 @@ div.prep-box {
     margin: 20px;
     border-radius: 10px 10px 10px 10px   
 }
+
+g#desks rect {
+ background-color: #5c4a00;  
+}

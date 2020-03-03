@@ -151,7 +151,7 @@ div.lab-box {
 }
 
 div.sound {
-    background-image:url(cocount.jpg);
+    background-image:url(coconut.jpg);
     height: 15px;
     width: 30px;
 }
@@ -172,4 +172,8 @@ div.prep-box {
 
 g#desks rect {
     fill: #f5df87;  
+}
+
+svg>rect {
+ fill: linear-gradient(to bottom, #5c4a00 0%, #f5df87 100%);   
 }

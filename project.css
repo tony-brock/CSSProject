@@ -152,6 +152,8 @@ div.lab-box {
 
 div.sound {
     background-image:url(coconut.jpg);
+    width: 50px;
+    height: 37;
 }
 
 div.assignment-label {

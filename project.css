@@ -140,7 +140,7 @@ div.header {
     margin: 10px;
     border: 5px solid #5c4a00;
     background-color: #49ACCC;
-    border-radius: 50px 50px 50px 50px
+    border-radius: 25px 25px 25px 25px
 }
 
 div.day {
@@ -178,5 +178,5 @@ div.prep-box {
 }
 
 g#desks rect {
- background-color: #5c4a00;  
+    fill: #5c4a00;  
 }
